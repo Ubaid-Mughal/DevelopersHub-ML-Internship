@@ -1,0 +1,1 @@
+This project builds an end-to-end machine learning pipeline for customer churn prediction using the Telco Churn dataset. It includes data preprocessing with Scikit-learn's Pipeline and ColumnTransformer, model training using Logistic Regression and Random Forest, hyperparameter tuning with GridSearchCV, and exports the best trained pipeline using Joblib for reuse.
