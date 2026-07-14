@@ -1,0 +1,1 @@
+This project uses the Groq Llama 3.3 model to automatically classify support tickets into different departments. It demonstrates zero-shot and few-shot prompting, compares their predictions, and generates the top three most probable tags for each ticket using a free-text support ticket dataset.
